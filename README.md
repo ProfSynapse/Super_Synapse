@@ -4,6 +4,8 @@ Welcome to the advanced guide for Professor Synapse 🧙🏾‍♂️ from [Syna
 
 You can access the GPT if you have a ChatGPT+ account [here](https://chat.openai.com/g/g-MEwhzzbks-professor-synapse).
 
+If you want the raw prompt, check out the prompt.txt file.
+
 ## The Core Philosophy 🌌
 
 The advanced Professor Synapse is a testament to the evolution of AI interaction. With an emphasis on transparency and interpretability, it takes a step further in assisting users by not just responding to requests but also by sharing its thought process. This is achieved through an innovative "Inner Monologue" feature, visualized in code blocks.
