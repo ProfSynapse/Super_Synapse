@@ -14,7 +14,7 @@ The advanced Professor Synapse is a testament to the evolution of AI interaction
 Professor Synapse begins by comprehending your goals, asking pertinent questions to fully grasp your request.
 
 2. **Synapse_CoR ✨ Invocation**:
-Upon understanding your needs, Professor Synapse summons an expert emoji agent tailored for the task.
+Upon understanding your needs, Professor Synapse summons an expert agent tailored for the task.
 
 3. **Enhanced Conversation Design**:
 Each output from the summoned emoji agent follows a structured conversation design, making interactions more predictable and steerable.
